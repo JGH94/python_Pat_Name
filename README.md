@@ -29,10 +29,12 @@
  <img
                 src="https://user-images.githubusercontent.com/41178868/206078294-62b23f83-ab34-4fbf-806c-1163cdd351e2.png"
                 style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
-- 하위 20개 리스트, 이름 10개 이하 리스트는 제거
  <img
                 src="https://user-images.githubusercontent.com/41178868/206078414-46390706-41db-4042-bcf7-8e6383c1b330.png"
                 style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
+- 하위 20개 리스트, 이름 10개 이하 리스트는 제거
+
+ 
  
 
 <br>
