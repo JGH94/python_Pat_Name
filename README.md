@@ -25,6 +25,16 @@
 - Model : https://www.data.go.kr/tcs/dss/selectDataSetList.do?dType=TOTAL&keyword=%EB%B0%98%EB%A0%A4%EA%B2%AC+%EC%9D%B4%EB%A6%84&detailKeyword=&publicDataPk=&recmSe=N&detailText=&relatedKeyword=&commaNotInData=&commaAndData=&commaOrData=&must_not=&tabId=&dataSetCoreTf=&coreDataNm=&sort=&relRadio=&orgFullName=&orgFilter=&org=&orgSearch=&currentPage=1&perPage=10&brm=&instt=&svcType=&kwrdArray=&extsn=&coreDataNmArray=&pblonsipScopeCode=
 
 - 자세히 : 4개의 데이터를 다운받고 해당 데이터를 통합하여 데이터 시각화를 진행하였습니다.
+- 상위 20개 리스트
+ <img
+                src="https://user-images.githubusercontent.com/41178868/206078294-62b23f83-ab34-4fbf-806c-1163cdd351e2.png"
+                style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
+- 하위 20개 리스트, 이름 10개 이하 리스트는 제거
+ <img
+                src="https://user-images.githubusercontent.com/41178868/206078414-46390706-41db-4042-bcf7-8e6383c1b330.png"
+                style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
+ 
+
 <br>
 
  
