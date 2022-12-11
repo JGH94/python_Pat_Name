@@ -65,7 +65,7 @@
 
 <br>
 
-* Excel 데이터 활용법 
+* CSV, XLSX 데이터 활용법 
 * 데이터 병합 및 통계 작업
 * 데이터 시각화 -  https://github.com/JGH94/python_MatplotLib 에서 학습했던 내용을 분석한 데이터에 적용
 
